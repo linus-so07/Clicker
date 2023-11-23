@@ -1,0 +1,58 @@
+{
+  "AutoClicker": {
+    "baseCost": 15,
+    "price": 15,
+    "amount": 0,
+    "baseRate": 0.1,
+    "produceRate": 0.1,
+    "upgradeLevel": 1
+  },
+  "Grandma": {
+    "baseCost": 100,
+    "price": 100,
+    "amount": 0,
+    "baseRate": 1,
+    "produceRate": 1,
+    "upgradeLevel": 1
+  },
+  "Farm": {
+    "baseCost": 1000,
+    "price": 1000,
+    "amount": 0,
+    "baseRate": 8,
+    "produceRate": 8,
+    "upgradeLevel": 1
+  },
+  "Mine": {
+    "baseCost": 12000,
+    "price": 12000,
+    "amount": 0,
+    "baseRate": 47,
+    "produceRate": 47,
+    "upgradeLevel": 1
+  },
+  "Factory": {
+    "baseCost": 130000,
+    "price": 13000,
+    "amount": 0,
+    "baseRate": 260,
+    "produceRate": 260,
+    "upgradeLevel": 1
+  },
+  "Bank": {
+    "baseCost": 1400000,
+    "price": 1400000,
+    "amount": 0,
+    "baseRate": 1400,
+    "produceRate": 1400,
+    "upgradeLevel": 1
+  },
+  "Temple": {
+    "baseCost": 20000000,
+    "price": 20000000,
+    "amount": 0,
+    "baseRate": 7800,
+    "produceRate": 7800,
+    "upgradeLevel": 1
+  }
+}
