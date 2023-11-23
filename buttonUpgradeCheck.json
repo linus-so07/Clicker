@@ -34,7 +34,7 @@
     "upgradeCheck15": false
   },
   "Farm": {
-    "upgradeCheck1": true,
+    "upgradeCheck1": false,
     "upgradeCheck2": false,
     "upgradeCheck3": false,
     "upgradeCheck4": false,

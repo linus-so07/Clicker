@@ -1,7 +1,7 @@
 {
   "AutoClicker": {
-    "upgradeCheck1": true,
-    "upgradeCheck2": true,
+    "upgradeCheck1": false,
+    "upgradeCheck2": false,
     "upgradeCheck3": false,
     "upgradeCheck4": false,
     "upgradeCheck5": false,
@@ -17,7 +17,7 @@
     "upgradeCheck15": false
   },
   "Grandma": {
-    "upgradeCheck1": true,
+    "upgradeCheck1": false,
     "upgradeCheck2": false,
     "upgradeCheck3": false,
     "upgradeCheck4": false,
@@ -34,7 +34,7 @@
     "upgradeCheck15": false
   },
   "Farm": {
-    "upgradeCheck1": true,
+    "upgradeCheck1": false,
     "upgradeCheck2": false,
     "upgradeCheck3": false,
     "upgradeCheck4": false,

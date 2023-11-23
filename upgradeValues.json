@@ -1,24 +1,24 @@
 {
   "AutoClicker": {
     "baseCost": 15,
-    "price": 26.23509374999999,
-    "amount": 4,
+    "price": 15,
+    "amount": 0,
     "baseRate": 0.1,
-    "produceRate": 0.4,
-    "upgradeLevel": 3
+    "produceRate": 0.1,
+    "upgradeLevel": 1
   },
   "Grandma": {
     "baseCost": 100,
-    "price": 174.90062499999993,
-    "amount": 4,
+    "price": 100,
+    "amount": 0,
     "baseRate": 1,
-    "produceRate": 2,
-    "upgradeLevel": 2
+    "produceRate": 1,
+    "upgradeLevel": 1
   },
   "Farm": {
     "baseCost": 1000,
-    "price": 1150.0,
-    "amount": 1,
+    "price": 1000,
+    "amount": 0,
     "baseRate": 8,
     "produceRate": 8,
     "upgradeLevel": 1
