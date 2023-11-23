@@ -41,6 +41,8 @@ for frame in [frame1, frame2, frame3, frame4]:
 
 frame3.columnconfigure(1, weight=1)
 frame3.columnconfigure(2, weight=1)
+
+
 class CreateToolTip(object):
 	def __init__(self, widget, text='widget info'):
 		self.waittime = 50  # miliseconds
